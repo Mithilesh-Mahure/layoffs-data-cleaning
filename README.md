@@ -1,3 +1,6 @@
+DATA ANALYSIS OF LAYOFF IN COVID YEARS
+
+
 # Layoffs Data Cleaning
 
 This repository contains a structured SQL script used to clean, standardize, and prepare a layoffs dataset for analysis. 
